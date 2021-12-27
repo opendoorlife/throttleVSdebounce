@@ -1,0 +1,6 @@
+module Pods_throttleVSdebounce {
+  umbrella header "Pods-throttleVSdebounce-umbrella.h"
+
+  export *
+  module * { export * }
+}
